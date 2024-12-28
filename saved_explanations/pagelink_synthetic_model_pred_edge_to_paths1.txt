@@ -1,0 +1,4 @@
+Path: (('user', 51), ('item', 10))
+  [(('user', 'buys', 'item'), 51, 37), (('item', 'has', 'attr'), 37, 32), (('attr', 'of', 'item'), 32, 10)]
+  [(('user', 'buys', 'item'), 51, 97), (('item', 'has', 'attr'), 97, 32), (('attr', 'of', 'item'), 32, 10)]
+

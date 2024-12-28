@@ -1,0 +1,4 @@
+Path: (('author', 374), ('paper', 1096))
+  [(('author', 'writes', 'paper'), 374, 800), (('paper', 'in', 'fos'), 800, 812), (('fos', 'of', 'paper'), 812, 1096)]
+  [(('author', 'writes', 'paper'), 374, 1065), (('paper', 'in', 'fos'), 1065, 812), (('fos', 'of', 'paper'), 812, 1096)]
+
